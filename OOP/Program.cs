@@ -76,9 +76,7 @@ namespace OOP
     {
         static void Main(string[] args)
         {
-            string dateString = "12-08-2004";
-            Task6 converter = new Task6();
-            converter.ConvertStringToDate(dateString);
+            
         }
     }
 
